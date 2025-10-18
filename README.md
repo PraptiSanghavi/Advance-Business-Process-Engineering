@@ -6,3 +6,11 @@ The course then shifts focus to the broader value chain, examining how modern su
 Instructor Name: Mr. Shannon Pettiford, M.S., PMP, PMI-ACP\
 Instructor E-mail: s.pettiford@northeastern.edu  
 
+## Instructor's Profile:
+Shannon Pettiford, M.S., PMP, PMI-ACP is a seasoned professional with expertise in program and project management, business process improvement, and operations management. His career spans decades, managing global projects and programs are focused on digital marketing, information technology, human resources, finance, and strategic initiatives.  
+
+He is a member of the Project Management Institute (PMI.org) and holds the Project Management Professional (PMP), Agile Certified Practitioner (PMI-ACP), and Certified Scrum Master (CSM) certifications. He obtained his undergraduate degree in Computer Science from East Tennessee State University and earned his master's degree in Project Management from Northeastern University, with a concentration in program and portfolio management. His continued research focuses on risk management, business process development, strategic initiatives, and business relationship management. 
+ 
+Mr. Pettiford's career spans various positions in the information technology field as a web developer, software programmer, systems analyst, and business analyst. His experience working in cross-functioning roles in Fortune 500 organizations provides him with keen insights and lessons learned in finance, information technology, marketing, and logistics. He works full-time at Boston Consulting Group as an IT Program Manager focused on office expansions, M&A, business acquisitions, and business engagement models globally. With a successful track record in program and project management, Mr. Pettiford delivers on organizational performance improvement, cost reduction methodologies, and business transformation.
+ 
+Mr. Pettiford also teaches graduate-level courses in project management at Northeastern University, the University of Kansas, and the Harvard Extension School.
